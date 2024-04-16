@@ -2,20 +2,24 @@ body{
     background-image: url(black.jpg);
     font-size: 24px;
     color: #fffff0;
+    padding: auto;
 }
 
 .keys{
     display: flex;
     justify-content: center;
     align-content: center;
-    margin: 50px;
+    margin-top: 50px;
+    margin: 25px;
     padding: 1em;
    
 }
 
 .keys div{
-    margin: 20px; 
-    border: #fffff0 2px solid;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: #fffff0 3px solid;
     border-radius: 10px;
     padding: 15px;
 }
