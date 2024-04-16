@@ -10,10 +10,12 @@ body{
     align-content: center;
     margin: 50px;
     padding: 1em;
-    border: #fffff0 2px solid;
-    border-radius: 10px;
+   
 }
 
 .keys div{
-    margin: 10px;
+    margin: 10px; 
+    border: #fffff0 2px solid;
+    border-radius: 10px;
+    
 }
