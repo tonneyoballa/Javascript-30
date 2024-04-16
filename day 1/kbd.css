@@ -1,0 +1,19 @@
+body{
+    background-image: url(black.jpg);
+    font-size: 24px;
+    color: #fffff0;
+}
+
+.keys{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 50px;
+    padding: 1em;
+    border: #fffff0 2px solid;
+    border-radius: 10px;
+}
+
+.keys div{
+    margin: 10px;
+}
