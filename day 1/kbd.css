@@ -33,12 +33,6 @@ body{
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
   }
-  
-  kbd {
-    display: block;
-    font-size: 4rem;
-  }
-  
 
 .sound {
     font-size: 1.2rem;
