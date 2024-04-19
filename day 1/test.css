@@ -6438,10 +6438,10 @@ body.open-menu #overlay-menu {
     font-size: 1.22222rem;
     line-height: 3.33333rem;
     letter-spacing: .22222rem;
-    transition: all .2s linear;
+    -o-transition: all .2s linear;
     -moz-transition: all .2s linear;
     -webkit-transition: all .2s linear;
-    -o-transition: all .2s linear;
+    transition: all .2s linear;
     box-shadow: 10px 10px 30px rgba(0,0,0,.04);
     text-indent: .83333rem;
     border-radius: 2px
@@ -6513,10 +6513,10 @@ body.open-menu #overlay-menu {
     right: 0;
     opacity: .3;
     background-color: transparent;
-    transition: all .2s linear;
+    -o-transition: all .2s linear;
     -moz-transition: all .2s linear;
     -webkit-transition: all .2s linear;
-    -o-transition: all .2s linear
+    transition: all .2s linearr
 }
 
 @media screen and (min-width: 768px) and (max-width:991.98px) {
