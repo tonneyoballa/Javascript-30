@@ -7814,10 +7814,10 @@ a.pswp__share--download:hover {
 }
 
 .back-to-top svg {
-    transition: all .2s linear;
+    -o-transition: all .2s linear;
     -moz-transition: all .2s linear;
     -webkit-transition: all .2s linear;
-    -o-transition: all .2s linear
+    transition: all .2s linearr
 }
 
 .back-to-top a {
