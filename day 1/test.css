@@ -6219,10 +6219,10 @@ body.open-menu #overlay-menu {
 }
 
 .is-frontend .np-link .np-text .np-label,.is-frontend .np-link .np-text .np-prefix,.is-frontend .np-link .np-text .np-text-inner {
-    transition: all .3s ease;
+    -o-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -webkit-transition: all .3s ease;
-    -o-transition: all .3s ease
+    transition: all .3s easee
 }
 
 .is-frontend .np-link .fadein-top {
